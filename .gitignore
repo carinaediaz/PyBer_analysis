@@ -1,3 +1,8 @@
+#Adding unncessary files to be ignored
+matplotlib_practice.ipynb
+PyBer_ride_data.ipynb
+PyBer.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
