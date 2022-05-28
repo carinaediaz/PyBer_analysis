@@ -3,9 +3,9 @@
 ##### Working for PyBer, a ride-sharing app, we are tasked with analyzing and visualizing the rideshare data from January to early May of 2019. Utilizing Jupyter Notebooks and matplotlib, we grouped our data by the city type in which the ride occurred, to then find similarities or differences amongst the city types' total rides, total drivers, total fares, average fare per ride, and average fare per driver. We explored a variety of visualization options to present our findings to the CEO, a few of which we discuss here.
 ## Results
 ##### By grouping the rides by the city type in which they occured, rural, suburban or urban, we were able to find where PyBer is currently excelling and where it can improve its services. 
-![Fig5.png](https://github.com/carinaediaz/PyBer_analysis/blob/main/Analysis/Fig5.png)
-![Fig6.png](https://github.com/carinaediaz/PyBer_analysis/blob/main/Analysis/Fig6.png)
-![Fig7.png](https://github.com/carinaediaz/PyBer_analysis/blob/main/Analysis/Fig7.png)
+![Fig5.png](https://github.com/carinaediaz/PyBer_analysis/blob/main/Analysis/Fig5.png)  
+![Fig6.png](https://github.com/carinaediaz/PyBer_analysis/blob/main/Analysis/Fig6.png)  
+![Fig7.png](https://github.com/carinaediaz/PyBer_analysis/blob/main/Analysis/Fig7.png)  
 ![cities_by_type_df.png](https://github.com/carinaediaz/PyBer_analysis/blob/main/Analysis/cities_by_type_df.PNG)
 ##### In the pie charts and table above, we can identify that PyBer is used more in urban cities, with over 80% (2405 of 2973) of the driver count and over 68% (1625 of 2375) of total rides occuring in urban cities. The average fare per ride is higher in rural cities than urban, with an almost $10 difference. The average fare per driver is also higher in rural cities than urban, with an almost $39 difference. While rides may be more lucrative for drivers in rural cities, they are less frequent, still leaving rural cities' total fares at the lowest by city type, $4,327. The average fare per driver is lowest for urban drivers at $16.57, but with more frequent use and more drivers, the total fares came out to $39,854. 
 ##### While we are representing the smae information in the pie charts and the table, the pie charts allow us to easily identify how much more PyBer is used in urban cities than it is in suburban, much less rural cities. The table then allows us to dive deeper into those differences by looking at values rather than percentages. 
